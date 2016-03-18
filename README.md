@@ -21,4 +21,5 @@ import sys
 sys.path.append(<your_path>)
 import lwmaya
 reload(lwmaya)
+lwmaya.main()
 ```
