@@ -1,3 +1,4 @@
 import app
+import ui
 reload(app)
-from app import *
+reload(ui)
