@@ -14,7 +14,7 @@ Mac OS X: ~/Library/Preferences/Autodesk/maya/<version>/scripts
 Linux: ~/maya/<version>/scripts
 ```
 
-Or clone this repo to *<your_path>* amd then in Maya console do:
+Or clone this repo to your_path then in Maya console do:
 
 ```python
 import sys
